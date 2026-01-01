@@ -4,3 +4,4 @@ yfinance
 pandas
 matplotlib
 seaborn
+ipython
